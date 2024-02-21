@@ -1,3 +1,4 @@
+package DS;
 public class SinglyLinkedList<E> {
     private Node<E> head = null;
     private Node<E> tail = null;

@@ -1,3 +1,4 @@
+package DS;
 public class Node<E> {
     private E value = null;
     private Node<E> next = null; 
